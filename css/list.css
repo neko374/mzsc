@@ -1,0 +1,172 @@
+.kuang {
+	height: 200px;
+	width: 100%;
+	border-top: 2px solid #F5F5F5;
+	border-bottom: 8px solid #F5F5F5;
+	overflow: hidden;
+	font-size: 12px;
+
+}
+
+.l {
+	width: 100px;
+	height: 49px;
+	background-color: #F5F5F5;
+	line-height: 49px;
+	font-size: 18px;
+	box-sizing: border-box;
+	padding-left: 20px;
+	float: left;
+}
+
+.zero {
+	width: 100%;
+	height: 50px;
+	border-bottom: 1px solid #F5F5F5;
+	overflow: hidden;
+}
+
+.one {
+	float: left;
+	height: 40px;
+	line-height: 40px;
+	border: #EE0055 1px dashed;
+	color: #EE0055;
+	margin-left: 20px;
+}
+
+.two {
+	margin-right: -1px;
+	width: 120px;
+	height: 40px;
+	line-height: 40px;
+	border: 1px solid #F5F5F5;
+	float: left;
+	margin-top: 4px;
+	text-align: center;
+	font-size: 12px;
+}
+
+.two:hover {
+	border: #EE0055 1px solid;
+	color: #EE0055;
+}
+
+.three {
+	width: 120px;
+	height: 40px;
+	line-height: 40px;
+	float: left;
+	margin-top: 4px;
+	text-align: center;
+	font-size: 12px;
+}
+
+.three:hover {
+	color: #EE0055;
+}
+
+.four {
+	width: 80px;
+	height: 40px;
+	line-height: 40px;
+	float: left;
+	margin-top: 4px;
+	text-align: center;
+	font-size: 12px;
+}
+
+.four:hover {
+	color: #EE0055;
+}
+
+.zero .right {
+	height: 40px;
+	margin-top: 14px;
+}
+
+.right svg {
+	position: relative;
+	top: 4px;
+}
+
+#zonghe {
+	width: 1200px;
+	margin: 0 auto;
+	height: 40px;
+	border-top: 1px solid #F5F5F5;
+	border-bottom: 1px solid #F5F5F5;
+	background-color: #F5F5F5;
+}
+
+#zonghe div {
+	float: left;
+	width: 100px;
+	height: 40px;
+	font-size: 16px;
+	line-height: 40px;
+	text-align: center;
+}
+
+#zonghe div:hover {
+	color: #EE0055;
+	background-color: white;
+}
+
+.shops {
+	width: 220px;
+	height: 300px;
+	border: 1px solid #F5F5F5;
+	font-size: 12px;
+	float: left;
+	margin-right: 21px;
+	margin-bottom: 30px;
+}
+
+.shops:hover {
+	border: 1px solid #EE0055;
+}
+
+.shops p {
+	font-size: 20px;
+	color: #EE0055;
+}
+
+.shops span {
+	color: #EE0055;
+}
+
+.page {
+	width: 40px;
+	height: 40px;
+	float: left;
+	font-size: 12px;
+	border: 1px black solid;
+	text-align: center;
+	line-height: 40px;
+	margin-right: 10px;
+}
+
+.page:hover {
+	color: white;
+	background-color: #EE0055;
+}
+
+#dd {
+	height: 44px;
+	width: 440px;
+}
+
+#dd input {
+	width: 40px;
+	height: 30px;
+	text-align: center;
+	float: left;
+	margin-top: 4px;
+}
+
+#dd span {
+	font-size: 12px;
+	float: left;
+	margin-top: 14px;
+}

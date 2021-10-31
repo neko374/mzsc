@@ -1,0 +1,115 @@
+.big {
+	border: 1px solid #F5F5F5;
+	float: left;
+	display: block;
+}
+
+.sl {
+	float: left;
+	margin-right: 25px;
+	margin-top: 10px;
+	border: 1px solid #F5F5F5;
+}
+
+.small {
+	float: left;
+	margin-right: 25px;
+	margin-top: 10px;
+	border: 1px solid #F5F5F5;
+}
+
+.le {
+	background-color: #EE0055;
+	text-align: center;
+	font-size: 16px;
+	height: 30px;
+	line-height: 30px;
+	width: 100px;
+	border-radius: 4px 4px 0 0;
+	color: white;
+}
+
+#lf {
+	margin-left: 20px;
+	font-size: 12px;
+	margin-right: 60px;
+	overflow: hidden;
+	float: left;
+	width: 433px;
+	height: 600px;
+}
+
+.left {
+	margin-left: 20px;
+	font-size: 12px;
+	margin-right: 60px;
+}
+
+.left p {
+	font-size: 14px;
+	line-height: 38px;
+}
+
+.left span {
+	color: #EE0055;
+	font-size: 20px;
+}
+
+.left input {
+	width: 20px;
+	height: 20px;
+	text-align: center;
+}
+
+.one {
+	width: 20px;
+	height: 26px;
+	background-color: #F5F5F5;
+	display: inline-block;
+	text-align: center;
+	line-height: 26px;
+}
+
+.button {
+	width: 160px;
+	height: 40px;
+	background-color: #F5F5F5;
+	text-align: center;
+	line-height: 40px;
+	display: inline-block;
+	font-size: 14px;
+	margin-left: 20px;
+	margin-top: 20px;
+	border: 1px solid gray;
+}
+
+.button:hover {
+	background-color: #EE0055;
+	color: white;
+}
+.slide {
+	width: 1800px;
+	height: 430px;
+	/* overflow: hidden; */
+	position: relative;
+}
+
+.shadow {
+	width: 200px;
+	height: 200px;
+	background: rgba(0, 0, 0, 0.4);
+	display: none;
+	z-index: 1;
+	position: absolute;
+}
+
+.pic {
+	width: 430px;
+	height: 430px;
+	overflow: hidden;
+	background: url(../img/shop0.png)no-repeat 0px 0px white;
+	display: none;
+	position: absolute;
+	left: 600px;
+	top: 188px;
+}
